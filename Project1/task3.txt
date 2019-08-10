@@ -1,0 +1,60 @@
+{
+	"query": "computer",
+		"description": "all pages related to computer",
+		"pages": ["https://simple.wikipedia.org/wiki/Computer", "https://simple.wikipedia.org/wiki/Computer_science","https://simple.wikipedia.org/wiki/Computer_mouse"]
+},
+
+{
+	"query": "science",
+	"description": "all pages related to science",
+	"pages": ["https://simple.wikipedia.org/wiki/Science", "https://simple.wikipedia.org/wiki/Computer_science","https://simple.wikipedia.org/wiki/Cognitive_science","https://simple.wikipedia.org/wiki/Earth_science","https://simple.wikipedia.org/wiki/Human_science","https://simple.wikipedia.org/wiki/Hard_science","https://simple.wikipedia.org/wiki/Huntingdon_Life_Sciences","https://simple.wikipedia.org/wiki/Science_Olympiad"]
+},
+
+{
+	"query": "earth",
+	"description": "all pages related to earth",
+	"pages": ["https://simple.wikipedia.org/wiki/Earth", "https://simple.wikipedia.org/wiki/Earth_science","https://simple.wikipedia.org/wiki/Earthquake"]
+},
+
+{
+	"query": "java",
+	"description": "all pages related to java",
+	"pages": ["https://simple.wikipedia.org/wiki/Java"]
+},
+
+
+{
+	"query": "beauty",
+	"description": "all pages related to beauty",
+	"pages": ["https://simple.wikipedia.org/wiki/Beauty", "https://simple.wikipedia.org/wiki/Beauty_and_the_Beast"]
+},
+
+{
+	"query": "Chrysanthemum",
+	"description": "all pages related to google",
+	"pages": ["https://simple.wikipedia.org/wiki/Chrysanthemum"]
+},
+
+{
+	"query": "data",
+	"description": "all pages related to data",
+	"pages": ["https://simple.wikipedia.org/wiki/Data", "https://simple.wikipedia.org/wiki/Data_compression"]
+},
+
+{
+	"query": "google",
+	"description": "all pages related to google",
+	"pages": ["https://simple.wikipedia.org/wiki/Google", "https://simple.wikipedia.org/wiki/Google_Mail"]
+},
+
+{
+	"query": "dog",
+	"description": "all pages related to dog",
+	"pages": ["https://simple.wikipedia.org/wiki/Dog","https://simple.wikipedia.org/wiki/List_of_dog_breeds", "https://simple.wikipedia.org/wiki/Anti-tank_dog", "https://simple.wikipedia.org/wiki/Shetland_Sheepdog", "https://simple.wikipedia.org/wiki/Sled_dog", "https://simple.wikipedia.org/wiki/Guide_dog", "https://simple.wikipedia.org/wiki/Guard_dog", "https://simple.wikipedia.org/wiki/Hunting_dog", "https://simple.wikipedia.org/wiki/Purebred_dog", "https://simple.wikipedia.org/wiki/Nintendogs"]
+},
+
+{
+	"query": "cauliflower",
+	"description": "all pages related to google",
+	"pages": ["https://simple.wikipedia.org/wiki/Cauliflower"]
+}

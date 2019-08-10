@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+X-Compile-Elasticsearch-Version: 5.6.2
+Implementation-Title: #project2;5.6.2
+Module-Origin: LOCAL
+Build-Date: 2019-02-10T07:35:55.612Z
+Implementation-Version: 5.6.2
+Built-By: cs246
+Change: Unknown
+Module-Source: /media/sf_vm-shared/project2/project2
+Built-Status: integration
+Gradle-Version: 4.1
+Built-OS: Linux
+X-Compile-Target-JDK: 1.8
+X-Compile-Elasticsearch-Snapshot: false
+X-Compile-Lucene-Version: 6.6.1
+X-Compile-Source-JDK: 1.8
+Created-By: 1.8.0_144-b01 (Oracle Corporation)
+Build-Java-Version: 1.8
+

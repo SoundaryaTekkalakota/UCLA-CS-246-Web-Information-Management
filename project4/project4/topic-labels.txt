@@ -1,0 +1,20 @@
+0 distributed computing
+1 magnetic fields
+2 quantum theory
+3 science conference
+4 educational programs
+5 plant biology
+6 image processing techniques
+7 anthropological development
+8 environmental research
+9 seismic studies
+10 evolutionary studies
+11 earthquake detection
+12 polymer properties
+13 product development
+14 climate modeling
+15 molecular synthesis
+16 microbial composition
+17 nonlinear systems modeling
+18 social studies
+19 research proposal
